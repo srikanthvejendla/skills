@@ -1,0 +1,8 @@
+{
+  "artifactId": "docx",
+  "artifactType": "skill",
+  "runtime": "unknown",
+  "name": "docx",
+  "endpoint": "http://127.0.0.1:4321",
+  "createdAt": "2026-05-03T04:37:43.384Z"
+}
